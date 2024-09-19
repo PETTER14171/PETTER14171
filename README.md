@@ -16,9 +16,9 @@
 
 📃 Editor de mi propio blog  ☕ avazado en cafe bonsai 😵 y la programación
 
-💻 3 años de experiencia en el proceso de desarrollo Web y de software 
+💻 Experiencia de 3 años en el proceso de desarrollo Web y de software 
 
-📝 roles en el ámbito: desarrollador... arquitecto... cofundador...programador freelance...
+📝 Roles en el ámbito: Desarrollador de planta... Arquitecto...Programador Freelance...
 
 📫 Contacto: **pedro-gus1@hotmail.com**
 <!--Intro end-->
