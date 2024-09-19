@@ -28,7 +28,7 @@
 <h2 >Mis Skills👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://github.com/PETTER14171/PETTER14171/">
+  <a href="https://github.com/PETTER14171">
     <img src="https://skillicons.dev/icons?i=cs,java,php,py,dotnet,css,html,js,nodejs,mysql,firebase,gtk,git,github,eclipse,vscode,linux,ai,ps&perline=12" />
   </a>
 </p>
