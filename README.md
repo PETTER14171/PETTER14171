@@ -12,20 +12,20 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO Sistemas Computacionales 
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+📃 Editor de mi propio blog  ☕ avazado en cafe bonsai 😵 y la programación
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 3 años de experiencia en el proceso de desarrollo Web y de software 
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... arquitecto... cofundador...programador freelance...
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **pedro-gus1@hotmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Mis Skills👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
