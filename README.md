@@ -50,8 +50,8 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+     <a href="https://github.com/PETTER14171/Dino-Game" title="Go to Source">
+        <img align="center" width=100% src="https://1drv.ms/i/s!AoiNMYS4PMoHgdx-UB9UplWwyMs-2Q?e=qhG1Vx"   alt="Dino" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
