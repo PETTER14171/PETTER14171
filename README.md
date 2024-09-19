@@ -51,7 +51,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/PETTER14171/Dino-Game" title="Go to Source">
-        <img align="center" width=100% src="https://photos.onedrive.com/share/07CA3CB884318D88!28286?cid=07CA3CB884318D88&resId=07CA3CB884318D88!28286&authkey=!AFAfVKZVsMjLPtk&ithint=photo&e=pgkuyjy%3d!AFAfVKZVsMjLPtk&e=pgkuyj&ithint=photo"   alt="Dino" /></a>
+        <img align="center" width=100% src=""   alt="Dino" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/PETTER14171/Dino-Game" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
