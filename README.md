@@ -45,7 +45,7 @@
         <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/Intranet.png"   alt="Intranet" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://petter14171.github.io/Intranet-FLV/Index.html" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
@@ -64,7 +64,7 @@
         <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/store.png"   alt="Store" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://store.cryptoguardstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 
@@ -74,7 +74,7 @@
         <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/Cafe-Encriptado.png"   alt="Cafe-encriptado" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://cafe-encryptado.cryptoguardstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
