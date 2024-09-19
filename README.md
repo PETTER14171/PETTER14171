@@ -41,8 +41,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+     <a href="https://petter14171.github.io/Intranet-FLV/Index.html" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/Intranet.png"   alt="Intranet" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -60,8 +60,8 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+     <a href="https://store.cryptoguardstudio.com/" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/store.png"   alt="Store" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -70,8 +70,8 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+     <a href="https://cafe-encryptado.cryptoguardstudio.com/" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/PETTER14171/PETTER14171/blob/main/Cafe-Encriptado.png"   alt="Cafe-encriptado" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
