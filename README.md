@@ -18,7 +18,7 @@
 
 💻 Experiencia de 3 años en el proceso de desarrollo Web y de software 
 
-📝 Roles en el ámbito: Desarrollador de planta... Arquitecto...Programador Freelance...
+📝 Roles en el ámbito: Desarrollador de planta... Arquitecto de Bases de Datos ...Programador Freelance...
 
 📫 Contacto: **pedro-gus1@hotmail.com**
 <!--Intro end-->
