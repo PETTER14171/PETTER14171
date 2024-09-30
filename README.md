@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INGENIERO Sistemas Computacionales 
 
-📃 Editor de mi propio blog  ☕ vazado en cafe bonsai 😵 y la programación
+📃 Editor de mi propio blog  ☕ vazado en el arte del cafe, el bonsai 😵 y la programación
 
 💻 Experiencia de 3 años en el proceso de desarrollo Web y de software 
 
